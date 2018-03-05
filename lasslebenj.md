@@ -12,3 +12,9 @@ if (life.sucks):
 else:
     self.commit_shitposts()
 ```
+
+```javascript
+if (life.sucks) {
+  console.log("Me gustan los trenes");
+}
+```
